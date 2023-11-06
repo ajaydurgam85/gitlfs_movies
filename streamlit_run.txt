@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Ajay\Desktop\Movie_Recommender_Projects/Recommender_App.py"
